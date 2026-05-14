@@ -124,7 +124,6 @@ I'm an interdisciplinary physicist and business analytics professional passionat
 | 🔬 Surface Physics | **Active (2025)** | Advanced research & analysis |
 | 🤖 AI-Driven Automation | **Optimizing** | Workflow enhancement |
 | 🌉 Physics & Computation | **Building Bridges** | Cross-disciplinary solutions |
-https://drive.google.com/file/d/1pT1X59Y2BdYETeTgsI3LK2sy0Bp7ZohD/view?usp=sharing
 
 </div>
 

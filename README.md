@@ -22,15 +22,17 @@
 
 ## 💫 About Me
 
-Hi, I'm **Amin Adineh** 👋
-I'm a graduated physicist and business management professional with a passion for bridging the gap between scientific research and intelligent automation. My work focuses on developing scalable solutions across microelectronics, quantum transport, and data-driven process control.
+Hi, I'm **Amin Adineh** 👋  
+I'm an interdisciplinary physicist and business analytics professional passionate about bridging scientific research, AI-driven automation, and intelligent system design. My work focuses on scalable solutions across semiconductor physics, quantum transport, optimization algorithms, robotics, and data-driven process control.
 
 ### 🎯 Core Expertise
 
-* 🔬 **Quantum & Physics:** Hands-on experience in semiconductor research and building automation systems for cryogenic environments (approaching 0 Kelvin)
-* 🤖 **AI & Automation:** Building intelligent workflow solutions that combine AI with automation to streamline complex research and industrial processes
-* 📊 **Data Science:** Developed 50+ data analysis projects and 100+ Python scripts to transform raw experimental data into actionable insights
-* 💻 **Tech Leadership:** Python, Scientific Computing, AI-driven Automation, System Design, and Digital Marketing Strategy
+* 🔬 **Quantum & Semiconductor Physics:** Hands-on experience in cryogenic systems, magnetotransport characterization, semiconductor research, and near-zero Kelvin experimental environments
+* 🤖 **AI, Robotics & Automation:** Developing AI-driven workflow systems, integrating LLMs with robotic platforms, and building intelligent automation pipelines for research and industrial applications
+* 📊 **Scientific Data Analysis:** Built 50+ research and analytics projects with 100+ Python-based automation and data processing tools for experimental physics and engineering workflows
+* ⚙️ **Optimization & Operations Research:** Practical experience with LP, IP, MILP, Branch-and-Bound, dynamic programming, and exact optimization methods for real-world systems
+* 💻 **Full-Stack & Scientific Computing:** Python, FastAPI, MERN Stack, LabVIEW, GPU-accelerated pipelines, scientific automation, and scalable AI infrastructure
+* 🌐 **Tech & Business Integration:** Combining scientific computing, AI systems, and business analytics to create efficient, energy-aware, and scalable technological solutions
 
 ---
 
@@ -111,6 +113,14 @@ I'm a graduated physicist and business management professional with a passion fo
 
 | Research Area | Status | Focus |
 |:-------------:|:------:|:-----:|
+| 🔬 Quantum Transport & Semiconductor Physics | **Active (2026)** | Cryogenic systems & magnetotransport analysis |
+| 🤖 AI-Driven Robotics & Automation | **Developing** | LLM integration & intelligent workflows |
+| ⚙️ Optimization & Operations Research | **Expanding** | LP, MILP, exact algorithms & scalable systems |
+| 🌉 Physics, AI & Computation | **Building Bridges** | Cross-disciplinary intelligent solutions |
+
+</div>
+
+-------------:|:------:|:-----:|
 | 🔬 Surface Physics | **Active (2025)** | Advanced research & analysis |
 | 🤖 AI-Driven Automation | **Optimizing** | Workflow enhancement |
 | 🌉 Physics & Computation | **Building Bridges** | Cross-disciplinary solutions |

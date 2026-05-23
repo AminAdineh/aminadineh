@@ -73,18 +73,6 @@ philosophy: "Innovation lives at the intersection of science and technology."
 
 [![Amin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminadineh&bg_color=0d1117&color=8E44AD&line=3498DB&point=FF6B6B&area=true&hide_border=true)](https://github.com/aminadineh)
 
----
-
-## 🛰️ 3D Contribution Skyline
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aminadineh/aminadineh/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" />
-
-</div>
-
----
-
 ## 🧪 Tech Constellation
 
 <div align="center">

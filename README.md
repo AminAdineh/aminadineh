@@ -7,9 +7,9 @@
 <br/>
 
 <img src="https://custom-icon-badges.demolab.com/badge/-aminadineh.ir-2ea44f?style=for-the-badge&logo=globe&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=aminadineh95&style=for-the-badge&color=8E44AD&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/aminadineh95?style=for-the-badge&color=3498DB&labelColor=0d1117&logo=github" />
-<img src="https://img.shields.io/github/stars/aminadineh95?style=for-the-badge&color=16A085&labelColor=0d1117&logo=starship" />
+<img src="https://komarev.com/ghpvc/?username=aminadineh&style=for-the-badge&color=8E44AD&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/aminadineh?style=for-the-badge&color=3498DB&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/stars/aminadineh?style=for-the-badge&color=16A085&labelColor=0d1117&logo=starship" />
 
 </div>
 
@@ -20,9 +20,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aminadineh95/aminadineh95/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aminadineh95/aminadineh95/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/aminadineh95/aminadineh95/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aminadineh/aminadineh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aminadineh/aminadineh/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/aminadineh/aminadineh/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -50,20 +50,20 @@ philosophy: "Innovation lives at the intersection of science and technology."
 
 <div align="center">
 
-<a href="https://github.com/aminadineh95">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aminadineh95&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8E44AD&icon_color=3498DB&text_color=c9d1d9&bg_color=0d1117" />
+<a href="https://github.com/aminadineh">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aminadineh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8E44AD&icon_color=3498DB&text_color=c9d1d9&bg_color=0d1117" />
 </a>
-<a href="https://github.com/aminadineh95">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminadineh95&layout=compact&langs_count=10&hide_border=true&title_color=8E44AD&text_color=c9d1d9&bg_color=0d1117" />
+<a href="https://github.com/aminadineh">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminadineh&layout=compact&langs_count=10&hide_border=true&title_color=8E44AD&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=aminadineh95&theme=tokyonight&hide_border=true&background=0d1117&stroke=8E44AD&ring=3498DB&fire=FF6B6B&currStreakLabel=8E44AD" height="180" />
+<img src="https://streak-stats.demolab.com?user=aminadineh&theme=tokyonight&hide_border=true&background=0d1117&stroke=8E44AD&ring=3498DB&fire=FF6B6B&currStreakLabel=8E44AD" height="180" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aminadineh95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=aminadineh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 
 </div>
 
@@ -71,7 +71,7 @@ philosophy: "Innovation lives at the intersection of science and technology."
 
 ## 🌌 Contribution Activity Graph
 
-[![Amin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminadineh95&bg_color=0d1117&color=8E44AD&line=3498DB&point=FF6B6B&area=true&hide_border=true)](https://github.com/aminadineh95)
+[![Amin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminadineh&bg_color=0d1117&color=8E44AD&line=3498DB&point=FF6B6B&area=true&hide_border=true)](https://github.com/aminadineh)
 
 ---
 
@@ -79,7 +79,7 @@ philosophy: "Innovation lives at the intersection of science and technology."
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aminadineh95/aminadineh95/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" />
+<img src="https://raw.githubusercontent.com/aminadineh/aminadineh/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" />
 
 </div>
 
@@ -142,7 +142,7 @@ philosophy: "Innovation lives at the intersection of science and technology."
 <div align="center">
 
 [![Website](https://img.shields.io/badge/aminadineh.ir-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aminadineh.ir/)
-[![Workflow](https://img.shields.io/badge/⚡_My_Workflow-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://aminadineh95.github.io/Workflow/)
+[![Workflow](https://img.shields.io/badge/⚡_My_Workflow-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://aminadineh.github.io/Workflow/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aminadineh)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aminadineh)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amenadineh)

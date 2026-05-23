@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://aminadineh.ir/">
+<a href="https://aminadineh.github.io/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=900&color=8E44AD&center=true&vCenter=true&width=900&height=70&lines=Amin+Adineh+%E2%9A%9B%EF%B8%8F;Applied+Physicist+%26+AI+Engineer;Quantum+Transport+%E2%80%A2+Robotics+%E2%80%A2+Automation;Bridging+Science+and+Intelligent+Systems" alt="Typing headline" />
 </a>
 
@@ -129,7 +129,7 @@ philosophy: "Innovation lives at the intersection of science and technology."
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/aminadineh.ir-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aminadineh.ir/)
+[![Website](https://img.shields.io/badge/aminadineh.github.io-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aminadineh.github.io/)
 [![Workflow](https://img.shields.io/badge/⚡_My_Workflow-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://aminadineh.github.io/Workflow/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aminadineh)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aminadineh)

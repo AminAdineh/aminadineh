@@ -40,7 +40,7 @@ focus:
   - LLM-driven robotics & workflow automation
   - Optimization (LP / MILP / Branch-and-Bound)
   - Scalable scientific computing & GPU pipelines
-languages: [Python, C++, Rust, TypeScript, Fortran, C#, R, LabVIEW]
+languages: [Python, Rust, TypeScript, Fortran, C#, R, LabVIEW]
 philosophy: "Innovation lives at the intersection of science and technology."
 ```
 

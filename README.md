@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://custom-icon-badges.demolab.com/badge/-aminadineh.ir-2ea44f?style=for-the-badge&logo=globe&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/-aminadineh.github.io-2ea44f?style=for-the-badge&logo=globe&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=aminadineh&style=for-the-badge&color=8E44AD&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/aminadineh?style=for-the-badge&color=3498DB&labelColor=0d1117&logo=github" />
 <img src="https://img.shields.io/github/stars/aminadineh?style=for-the-badge&color=16A085&labelColor=0d1117&logo=starship" />

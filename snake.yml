@@ -1,8 +1,7 @@
-name: 🐍 Generate Snake & 3D Profile Animations
+name: 🐍 Generate GitHub Contribution Snake
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -13,34 +12,21 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      # 1) Generate the snake eating contributions (Platane/snk)
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🐍 Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: aminadineh
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-dark.svg
 
-      # 2) Generate 3D contribution skyline (yoshi389111)
-      - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Move 3D output into dist/
-        run: |
-          mkdir -p dist/profile-3d-contrib
-          cp -r profile-3d-contrib/* dist/profile-3d-contrib/ || true
-
-      # 3) Push everything to the `output` branch
-      - name: Push to output branch
+      - name: 🚀 Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

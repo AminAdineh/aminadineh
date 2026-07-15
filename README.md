@@ -6,7 +6,7 @@
   ·
   <a href="mailto:AminAdineh95@gmail.com">Email</a>
   ·
-  <a href="visit-card.html"><b>Live ASCII Card</b></a>
+  <a href="[visit-card.html](https://aminadineh.github.io/aminadineh/visit-card.html)"><b>Live ASCII Card</b></a>
 </p>
 
 <a href="visit-card.html">
@@ -26,5 +26,5 @@
 </a>
 
 <p align="center">
-  <sub>Open <a href="visit-card.html">visit-card.html</a> · vertical live card · flip on click · swap <code>card_portrait.png</code> anytime</sub>
+  <sub>Open <a href="visit-card.html">visit-card.html</a> · vertical  card · flip on click · swap <code>card_portrait.png</code> anytime</sub>
 </p>

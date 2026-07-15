@@ -9,7 +9,7 @@
   <a href="https://aminadineh.github.io/aminadineh/visit-card.html"><b>Live ASCII Card</b></a>
 </p>
 
-<a href="visit-card.html">
+<a href="https://aminadineh.github.io/aminadineh/visit-card.html">
   <table>
     <tr>
       <td valign="middle">

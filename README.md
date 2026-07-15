@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="profile.png" width="220" height="220" alt="Amin Adineh" />
-</p>
-
-<p align="center">
   <b>Amin Adineh</b> · Applied Physics · Computer Science &amp; AI/ML<br/>
   <a href="Amin_Adineh_CV.pdf">Curriculum Vitae (PDF)</a>
   ·

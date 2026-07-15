@@ -26,5 +26,5 @@
 </a>
 
 <p align="center">
-  <sub>Open <a href="visit-card.html">visit-card.html</a> · vertical  card · flip on click · swap <code>card_portrait.png</code> anytime</sub>
+  <sub>Open <a href="https://aminadineh.github.io/aminadineh/visit-card.html">visit-card.html</a> · vertical  card · flip on click · swap <code>card_portrait.png</code> anytime</sub>
 </p>

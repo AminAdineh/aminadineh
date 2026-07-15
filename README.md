@@ -6,14 +6,14 @@
   ·
   <a href="mailto:AminAdineh95@gmail.com">Email</a>
   ·
-  <a href="visit-card.html">Interactive ASCII Card</a>
+  <a href="visit-card.html"><b>Live ASCII Card</b></a>
 </p>
 
 <a href="visit-card.html">
   <table>
     <tr>
       <td valign="middle">
-        <img src="ascii_portrait.png" width="380" alt="Amin Adineh ASCII portrait — click for visiting card" />
+        <img src="ascii_portrait.png" width="300" alt="Amin Adineh — open live vertical visit card" />
       </td>
       <td valign="middle">
         <picture>
@@ -26,5 +26,5 @@
 </a>
 
 <p align="center">
-  <sub>Click the portrait → holographic ASCII visiting card (flip / glitch motion)</sub>
+  <sub>Open <a href="visit-card.html">visit-card.html</a> · vertical live card · flip on click · swap <code>card_portrait.png</code> anytime</sub>
 </p>

@@ -6,7 +6,7 @@
   ·
   <a href="mailto:AminAdineh95@gmail.com">Email</a>
   ·
-  <a href="[visit-card.html](https://aminadineh.github.io/aminadineh/visit-card.html)"><b>Live ASCII Card</b></a>
+  <a href="https://aminadineh.github.io/aminadineh/visit-card.html"><b>Live ASCII Card</b></a>
 </p>
 
 <a href="visit-card.html">

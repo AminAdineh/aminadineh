@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" width="160" height="160" alt="Amin Adineh" />
+  <img src="profile.png" width="220" height="220" alt="Amin Adineh" />
 </p>
 
 <p align="center">

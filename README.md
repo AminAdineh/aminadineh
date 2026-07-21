@@ -2,14 +2,14 @@
   <b>Amin Adineh</b> · Applied Physics · Computer Science &amp; AI/ML<br/>
   <a href="Amin_Adineh_CV.pdf">Curriculum Vitae (PDF)</a>
   ·
-  <a href="https://aminadineh.github.io">Website</a>
+  <a href="https://aminadineh.de">Website</a>
   ·
   <a href="mailto:AminAdineh95@gmail.com">Email</a>
   ·
-  <a href="https://aminadineh.github.io/aminadineh/visit-card.html"><b>Live ASCII Card</b></a>
+  <a href="https://aminadineh.de"><b>Live ASCII Card</b></a>
 </p>
 
-<a href="https://aminadineh.github.io/aminadineh/visit-card.html">
+<a href="https://aminadineh.de">
   <table>
     <tr>
       <td valign="middle">
@@ -26,5 +26,5 @@
 </a>
 
 <p align="center">
-  <sub>Open <a href="https://aminadineh.github.io/aminadineh/visit-card.html">visit-card.html</a> · vertical  card · flip on click · swap <code>card_portrait.png</code> anytime</sub>
+  <sub>Open <a href="https://aminadineh.de">visit-card.html</a> · vertical  card · flip on click · swap <code>card_portrait.png</code> anytime</sub>
 </p>

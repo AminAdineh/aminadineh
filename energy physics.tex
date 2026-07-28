@@ -1,0 +1,195 @@
+\documentclass[10pt, a4paper]{article}
+
+% --- SPECIAL PREAMBLE PROTOCOL ---
+% Using standard, robust packages to ensure zero compilation issues.
+\usepackage[a4paper, left=0.7in, right=0.7in, top=0.6in, bottom=0.6in]{geometry}
+\usepackage{fontspec}
+\usepackage[english, bidi=basic, provide=*]{babel}
+
+% Load Noto Sans as the main document font (modern, clean, highly readable)
+\babelprovide[import, onchar=ids fonts]{english}
+\babelfont{rm}{Noto Sans}
+
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+% --- COLOR PALETTE ---
+\definecolor{primarycolor}{RGB}{0, 51, 102} % Elegant Deep Navy
+\definecolor{textcolor}{gray}{0.15}         % Charcoal gray for comfortable reading
+\color{textcolor}
+
+% --- HYPERLINK SETUP ---
+\hypersetup{
+  colorlinks=true,
+  urlcolor=primarycolor,
+  linkcolor=primarycolor
+}
+
+% --- COMPACT LIST SETTINGS (Tweak Spacing Here) ---
+\setlist[itemize]{
+  leftmargin=1.5em,
+  itemsep=2pt,
+  parsep=0pt,
+  topsep=2pt,
+  partopsep=0pt
+}
+
+\setlist[description]{
+  leftmargin=9.5em,
+  labelwidth=9.0em,
+  labelsep=0.5em,
+  itemsep=3pt,
+  parsep=0pt,
+  topsep=2pt
+}
+
+% --- SECTION FORMATTING (Tweak Section Padding Here) ---
+\titleformat{\section}
+  {\large\bfseries\scshape\color{primarycolor}}
+  {}{0em}{}
+  [\color{primarycolor}\titlerule]
+
+\titlespacing*{\section}{0pt}{1.0em}{0.4em}
+
+\begin{document}
+
+% --- HEADER WITH MINIPAGE (Profile Picture & Personal Details) ---
+\begin{minipage}[t]{0.72\textwidth}
+  \vspace{0pt}
+  {\Huge\bfseries\color{primarycolor} Amin Adineh} \\[0.4em]
+  {\large\bfseries\color{primarycolor!80} Applied Physics \\& Computer Science \& AI/ML} \\[0.8em]
+  \small
+  \begin{tabular}{@{}ll}
+    \textbf{Location:} & Cottbus, Brandenburg, Germany \\
+    \textbf{Phone:}    & +49 176 9772 9455 \\
+    \textbf{Email:}    & \href{mailto:AminAdineh95@gmail.com}{AminAdineh95@gmail.com} \\
+    \textbf{Websites:} & \href{https://aminadineh.de}{aminadineh.de}
+    \quad$|$\quad
+    \href{https://github.com/AminAdineh}{github.com/AminAdineh} \\
+  \end{tabular}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.24\textwidth}
+  \vspace{0pt}
+  \begin{flushright}
+    \includegraphics[width=2.5cm,height=3.1cm,keepaspectratio]{photo.jpg}
+  \end{flushright}
+\end{minipage}
+
+\vspace{0.8em}
+
+% --- PROFESSIONAL SUMMARY ---
+\section*{Professional Summary}
+Applied Physicist with expertise in energy modeling, optimization, and scientific computing, experienced in power systems, economic dispatch, renewable integration, and physics-based characterization and data analysis and Machine learning and AI engineering.
+
+
+
+% --- EDUCATION ---
+\section*{Education}
+
+\textbf{Master of Science in Applied Physics} \hfill \textit{2025} \\
+\textit{\href{https://www.b-tu.de/en/}{Brandenburg University of Technology Cottbus-Senftenberg}}
+\begin{itemize}[label={}]
+  \item \textbf{Thesis:} Temperature-Dependent Magnetotransport Characterization of Si/SiGe-Based Field Effect Stacks.
+  \item \textbf{Research Interests:} Quantum Transport, Semiconductor Physics, Machine Learning Integration, Scientific Automation.
+  \item \textbf{Taken Courses:} Solid State Theory, Thermodynamics, Nanoelectronics, Renewable Energy, Semiconductor Technology, Characterization of Micro- and Nanomaterials, Light and Matter: Interaction in Nanostructures, Advanced Laboratory Techniques and Metrology, Optimization in Business Transformations.
+  \item \textcolor{black}{\textbf{Summer Courses:} Attended two summer courses at BTU University related to Battery Technology and 2D Materials.}
+  \item \textbf{Independent Study:} Basic knowledge of laboratory-based and synchrotron X-ray diffraction (XRD) techniques and material characterization methods for rechargeable batteries.
+\end{itemize}
+\vspace{0.4em}
+\textbf{Master Business management in energy sector} \hfill \textit{2020 -- 2022} \\
+\textit{PNU University - State University of north Tehran}
+\begin{itemize}[label={}]
+  \item \textbf{Relevant Courses:}  Energy Economics and Energy Markets, Strategic Management in the Energy Industry, Energy Policies and Regulations, Project and Risk Management in Energy Industries, Operations Management, Marketing Management
+  \end{itemize}
+\textbf{Voluntary enthusiastically following coursework in Optimization mathmatical modeling and Power System Optimization and Economic Dispatch Modeling}\hfill \textit{2025 -- 2026}
+\begin{itemize}[label={}]
+    \item[-] Weekly assignments on mathematical optimization methods: Mathematical modeling with LP, IP, and MILP, Exact algorithms: Branch-and-Bound, Dynamic Programming, decomposition techniques, LP relaxation, primal-dual bounds, optimality gaps, combinatorial optimization.
+  \\Supervisor: Prof. Dr. rer. pol. Lin Xie \href{https://www.b-tu.de/en/fg-wirtschaftsinformatik-analytics/team/professor#c432185}{[Profile]}
+    \item[-] Power system optimization modeling involves writing Python (Pyomo) and GAMS code to simulate economic dispatch, integrating energy storage, carbon constraints, and renewable energy across multi-bus systems using linear and convex optimization. \\Supervisor: Dr.Dr. Spyros Giannelos
+    \href{https://www.skool.com/@sp-ia-8683?g=software-school-for-energy-7177}{[Profile]} \href{https://github.com/AminAdineh/DED-power-system-economic-dispatch}{[Repo Link]}
+    \item[-] Computational fluid dynamics (CFD) programming involves writing software to simulate fluid flow, heat transfer, and related physical processes using numerical methods like the finite volume or finite difference approach. \\Supervisor: Dr. rer. nat. Marten Klein \href{https://eiz-cottbus.de/en/meet-the-team-dr-rer-nat-marten-klein/}{[Profile]}
+\end{itemize}
+\vspace{0.4em}
+\textbf{Bachelor of Science in Applied Physics} \hfill \textit{2015 -- 2020} \\
+\textit{Arak University}
+\begin{itemize}[label={}]
+  \item \textbf{Relevant Courses:} Lab-based X-rays and synchrotron radiation, XRD, Optics, Electromagnetism, Quantum Mechanics, Analytical Mechanics, Experimental Physics.
+\end{itemize}
+\vspace{6\baselineskip}
+% --- EXPERIENCE ---
+\section*{Experience}
+
+\textbf{BTU Cottbus-Senftenberg} \hfill \textit{Oct 2025 -- Now} \\
+\textit{BTU Cottbus, Germany} \\
+Supervisor: Prof. Dr. rer. pol. Lin Xie \href{https://www.b-tu.de/en/fg-wirtschaftsinformatik-analytics/team/professor#c432185}{[Profile]}
+\begin{itemize}
+  \item \textbf{Assistant – Computer Science \& AI/ML (Applied Machine Learning for Optimization - (AI/ML))} \hfill \textit{Oct 2025 -- Now}
+  \begin{itemize}[leftmargin=1.2em, itemsep=1.5pt]
+    \item Developed a discrete-event RMFS model simulation (MiniRawsim-inspired) for warehouse robotics, logistics workflows, and autonomous fleet behavior. \href{https://aminadineh.me/}{Project Link}
+    \item Applied Operations Research and optimization algorithms for task allocation, multi-robot scheduling, path planning, inventory management, and resource optimization.
+    \item Trained and deployed ML/CV models for sensor robotic perception, object detection, scene understanding, decision-making, and autonomous interaction.
+    \item Integrated GPU-accelerated LLMs (TinyLlama, Qwen, GPT) into robotic systems for embodied AI, reasoning, and natural language interaction.
+    \item Developed optimization algorithms for storage, order/replenishment batching, pod repositioning, station activation, and robot coordination.
+    \item Built analytics software and GUIs for robot dialogs, telemetry, behavioral analysis, and real-time system monitoring.
+    \item Created agentic AI workflows using vectorshift.ai for LangChain and LangGraph and multi-agent coordination, automation, and intelligent decision support.
+  \end{itemize}
+\end{itemize}
+\vspace{\baselineskip}
+\begin{itemize}
+  \item \textbf{IHP – Leibniz Institute for High Performance Microelectronics} \hfill \textit{Sep 2024 -- Oct 2025} \\
+  \textit{Frankfurt (Oder), Germany} \quad | \quad Supervisor: Prof. Dr. rer. nat. habil. Christian Wenger \href{https://www.ihp-microelectronics.com/de/ueber-uns/organisation/abteilungen/materialforschung}{[Profile]}
+  \begin{itemize}
+    \item \textbf{Master Thesis – Quantum Transport Research} \hfill \textit{Sep 2025 -- Oct 2025}
+    \begin{itemize}[leftmargin=1.2em]
+      \item Temperature-dependent magnetotransport characterization ($1.5\text{ mK}$ to $10\text{ mK}$).
+    \end{itemize}
+
+    \item \textbf{Research Project – AI \& Cryogenic Data Analysis} \hfill \textit{Mar 2025 -- Aug 2025}
+    \begin{itemize}[leftmargin=1.2em, itemsep=1.5pt]
+      \item Developed Python-based analysis pipeline for cryogenic measurements.
+      \item Built real-time visualization for Hall and gate sweep experiments.
+      \item Extracted Hall parameters ($n$, $\mu$).
+      \item Automated QHE data analysis and reporting.
+      \item Applied AI embeddings for pattern recognition.
+    \end{itemize}
+
+    \item \textbf{Internship – Hardware--Software Integration} \hfill \textit{Sep 2024 -- Mar 2025}
+    \begin{itemize}[leftmargin=1.2em]
+      \item Integrated cryostat APIs using Python and NI LabVIEW (VI).
+      \item Worked with Oxford Teslatron PT and Kiutra L-Type Rapid systems.
+      \item Conducted data acquisition in near-zero Kelvin environments.
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+\vspace{0.4em}
+% --- SKILLS ---
+\section*{Skills}
+\vspace{-0.3em}
+\begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt]
+  \item[AI Development:] LLMs, Generative AI, NLP Pipelines, RAG Systems, LangChain, LangGraph, Tokenization, Word Embeddings (Word2Vec, FastText, Transformer-based embeddings) LLM/VLM Model training
+  \item[Software Eng.:] MERN Stack, FastAPI, REST APIs, WebSockets, GUI Development, AI-based SoftwareDev.
+  \item[Scientific Comp.:] Python, LabVIEW, Pandas, SciPy, Jupyter, pyomo , GRAMS Modeling, vectorshift
+  \item[Optimization:] LP, IP, MILP, Branch-and-Bound, Dynamic Programming, Heuristics, Metaheuristics, Approximation Algorithms, Network Optimization, Flow Algorithms
+  \item[Core Competencies:] Scientific Automation, Data Analysis, Optimization Modeling, Operations Research
+  \item[Professional Strengths (soft Skills):] Problem-solving, independent work, teamwork, public speaking, research-oriented mindset, eager to learn, well-organized, adaptable, positive, and approachable
+  \item[Characterization:] Basic knowledge of laboratory-based and synchrotron XRD techniques for batteries
+  \item[Tools \& Systems:] Git, Docker, Google Cloud, LaTeX, GPU Computing, and Google Colab
+\end{description}
+
+\vspace{-0.5em}
+\section*{Publication}
+\begin{itemize}
+\item[-]Core Energy: the power of renewables a comprehensive guide to renewable energy industries \\Link of publication \href{https://www.amazon.de/dp/B0CXR69G1Z}{[Book]}
+\end{itemize}
+% --- LANGUAGES ---
+\section*{Languages}
+\begin{center}
+  English (C1 – Advanced) \quad$\cdot$\quad German (B2 – Upper Intermediate) \quad$\cdot$\quad Persian/Farsi (Native)
+\end{center}
+
+\end{document}

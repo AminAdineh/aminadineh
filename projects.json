@@ -1,0 +1,38 @@
+[
+  {
+    "name": "DED Economic Dispatch",
+    "repo": "AminAdineh/DED-power-system-economic-dispatch",
+    "description": "Multi-period DC-OPF on IEEE 24-Bus RTS with wind, storage, and carbon-ready dispatch in Pyomo/GAMS.",
+    "tags": ["Python", "Pyomo", "Optimization"]
+  },
+  {
+    "name": "GPU Server Explorer",
+    "repo": "AminAdineh/GPU-Server-Explorer",
+    "description": "Tools for exploring and working with GPU servers for scientific computing and ML workloads.",
+    "tags": ["Python", "GPU", "HPC"]
+  },
+  {
+    "name": "Web Console Capture",
+    "repo": "AminAdineh/WebConsoleCapture",
+    "description": "Capture and analyze browser console output for debugging and automation workflows.",
+    "tags": ["Python", "Web", "Automation"]
+  },
+  {
+    "name": "FigMirror",
+    "repo": "AminAdineh/FigMirror",
+    "description": "AI agent tool for plotting data in any paper figure style automatically.",
+    "tags": ["Python", "AI", "Visualization"]
+  },
+  {
+    "name": "LabVIEW Generative AI",
+    "repo": "AminAdineh/labview-Genertive-AI",
+    "description": "Generative AI workflows integrated with LabVIEW for scientific instrumentation.",
+    "tags": ["LabVIEW", "AI", "Hardware"]
+  },
+  {
+    "name": "Profile & Visit Card",
+    "repo": "AminAdineh/aminadineh",
+    "description": "GitHub profile README, live ASCII visit card, and portfolio assets.",
+    "tags": ["Python", "SVG", "Profile"]
+  }
+]

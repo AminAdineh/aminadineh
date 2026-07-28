@@ -1,8 +1,3 @@
-<!-- ===== HERO: portrait + theme-aware banner ===== -->
-<p align="center">
-  <img src="profile.jpg" width="180" alt="Amin Adineh" style="border-radius:50%" />
-</p>
-
 <p align="center">
   <b>Amin Adineh</b> · Applied Physics · Computer Science &amp; AI/ML<br/>
   Cottbus, Brandenburg, Germany<br/>

@@ -96,7 +96,7 @@ Applied physicist with expertise in **energy modeling**, **optimization**, and *
 
 ## Publication
 
-- *Core Energy: the power of renewables* — [Amazon](https://www.amazon.de/dp/B0CXR69G1Z)
+- *Core Energy: the power of renewables* — [Amazon]()
 
 ## Languages
 
